@@ -1,0 +1,16 @@
+.app {
+  background-color: #fff;
+  color:#282c34;
+}
+
+.app header:before {
+  content: "Scan QR code/Enter data manually to connect WiFi network";
+}
+
+.app canvas{
+    display: block;
+}
+
+.hide-in-print {
+  display: none;
+}
